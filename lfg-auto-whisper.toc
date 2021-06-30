@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: LFG Auto Whisper
+## Notes: Auto whispers teams LFM so you can find a party as soon as possible.
+## Author: sqrr-Firemaw
+## Version: 0.1
+
+lfg-auto-whisper.lua
